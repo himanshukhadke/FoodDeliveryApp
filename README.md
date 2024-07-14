@@ -1,9 +1,11 @@
 # Zomato
 Food Delivery Application 
 
-Going to Write Go Code
+Going to Write Go Code for Food Delivery Application like Zomato
 
 compile using : go build .
+
+
 run using     : ./Zomato
 
 
